@@ -1,0 +1,28 @@
+name: delorme
+favicon: null
+layout_spectrum: 0.6354607210960239
+typography_spectrum: 0.26496190344914794
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2884786128997803
+  lightness: 0.140249875606969
+  saturation: 0.6702253841795027
+  rhythmicContrast: 0.9571898074354976
+purpose: []
