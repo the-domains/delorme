@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Authentic, Aligned, Autonomous - Employer Branding in the Post Control Era.'
-datePublished: '2016-05-04T10:55:03.204Z'
-dateModified: '2016-05-04T10:54:46.279Z'
+datePublished: '2016-05-04T10:56:32.116Z'
+dateModified: '2016-05-04T10:55:44.738Z'
 title: ''
 author: []
 authors: []
