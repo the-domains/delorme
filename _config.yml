@@ -1,29 +1,41 @@
-name: delorme
-favicon: null
-layout_spectrum: 0.6354607210960239
-typography_spectrum: 0.26496190344914794
 title: delorme
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.6702253841795027
+  brandStrength: 0.2884786128997803
+  rhythmicContrast: 0.9571898074354976
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.2884786128997803
   lightness: 0.140249875606969
-  saturation: 0.6702253841795027
-  rhythmicContrast: 0.9571898074354976
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: delorme
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.3870968
+layout_spectrum: 0.4175627
